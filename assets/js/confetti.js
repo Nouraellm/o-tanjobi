@@ -18,7 +18,9 @@ const possibleColors = [
   "SteelBlue",
   "SandyBrown",
   "Chocolate",
-  "Crimson"
+  "Crimson",
+  "white",
+  "cyan"
 ];
 
 function randomFromTo(from, to) {
